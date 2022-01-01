@@ -1,0 +1,31 @@
+h1{
+  padding: 5px 10px;
+  border: 5px solid #212d5e;
+  color: #ffffff;
+  background-color: #7f8ff9;
+  text-align: center;
+  }
+h3{
+  font-size: 30px;
+  height: 15px;
+}
+body{
+  background-color: #fc5185;
+}
+
+h3{
+  color: #212d5e;
+}
+p{
+  color: #212d5e;
+  font-size: 21px;
+}
+em{
+  color: #ffffff;
+}
+h2{
+ font-size: 21px;
+} 
+.change{
+  color:#212d5e;
+}
